@@ -1,7 +1,0 @@
-"key","value","request_id"
-"mlflow.trace.session","""4bee886a-d71f-4ac0-894a-cbd44595ddad""","tr-272e7f7363be68c5d84d7932d2833f07"
-"mlflow.trace.tokenUsage","{""input_tokens"": 373, ""output_tokens"": 36, ""total_tokens"": 409}","tr-e80fb36b4c6cd079f42cd127d6dc6568"
-"mlflow.trace.session","""1a30d189-9c2e-4aba-ac9c-2f4e4a8533eb""","tr-e80fb36b4c6cd079f42cd127d6dc6568"
-"mlflow.trace.tokenUsage","{""input_tokens"": 374, ""output_tokens"": 37, ""total_tokens"": 411}","tr-4b849ad5c22294288cca30fe075b78c4"
-"mlflow.trace.cost","{""input_cost"": 5.6099999999999995e-05, ""output_cost"": 2.2199999999999998e-05, ""total_cost"": 7.83e-05}","tr-4b849ad5c22294288cca30fe075b78c4"
-"mlflow.trace.session","""680fbe1d-e2b3-423a-8d8e-78af55079e26""","tr-4b849ad5c22294288cca30fe075b78c4"

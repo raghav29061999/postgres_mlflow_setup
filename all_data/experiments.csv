@@ -1,3 +1,0 @@
-"experiment_id","name","artifact_location","lifecycle_stage","creation_time","last_update_time","workspace"
-0,"Default","mlflow-artifacts:/0","active",1776267971393,1776267971393,"default"
-1,"Agno-Math-Agent","mlflow-artifacts:/1","active",1776268600750,1776268600750,"default"
