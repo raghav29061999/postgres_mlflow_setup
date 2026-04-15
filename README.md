@@ -156,6 +156,74 @@ http://127.0.0.1:5000
 
 ---
 
+# 📁 Local Data Exports
+
+- The `all_data/` folder is intentionally ignored by Git and should stay local only. It may contain downloaded database exports, traces, and metadata that should not be shared from the repo.
+
+- The list of tables created in the MLflow PostgreSQL database was captured in `all_data/all_tables_made.csv`.
+
+- Tables created:
+  - `logged_model_metrics`
+  - `tags`
+  - `params`
+  - `metrics`
+  - `runs`
+  - `logged_model_params`
+  - `alembic_version`
+  - `experiment_tags`
+  - `latest_metrics`
+  - `datasets`
+  - `input_tags`
+  - `trace_tags`
+  - `trace_request_metadata`
+  - `logged_models`
+  - `logged_model_tags`
+  - `inputs`
+  - `trace_info`
+  - `assessments`
+  - `entity_associations`
+  - `webhook_events`
+  - `scorers`
+  - `scorer_versions`
+  - `evaluation_dataset_tags`
+  - `evaluation_dataset_records`
+  - `endpoint_tags`
+  - `trace_metrics`
+  - `jobs`
+  - `endpoint_model_mappings`
+  - `online_scoring_configs`
+  - `endpoint_bindings`
+  - `span_metrics`
+  - `spans`
+  - `experiments`
+  - `registered_models`
+  - `model_versions`
+  - `registered_model_tags`
+  - `model_version_tags`
+  - `registered_model_aliases`
+  - `evaluation_datasets`
+  - `webhooks`
+  - `secrets`
+  - `endpoints`
+  - `model_definitions`
+  - `workspaces`
+  - `budget_policies`
+  - `issues`
+
+- Useful tables for this project were downloaded and saved locally as CSV files inside `all_data/`:
+  - `experiments.csv`
+  - `runs.csv`
+  - `spans.csv`
+  - `span_metrics.csv`
+  - `tags.csv`
+  - `trace_info.csv`
+  - `trace_metrics.csv`
+  - `trace_request_metadata.csv`
+  - `trace_tags.csv`
+  - `all_tables_made.csv`
+
+---
+
 # ✅ Summary
 
 Steps:
@@ -178,4 +246,3 @@ Steps:
 ---
 
 Happy building 🚀
-
