@@ -1,0 +1,4 @@
+"run_uuid","name","source_type","source_name","entry_point_name","user_id","status","start_time","end_time","source_version","lifecycle_stage","artifact_uri","experiment_id","deleted_time"
+"0b6b1d97f2954595ae9bcbccdd56332a","delightful-hare-856","UNKNOWN","","","singh","FINISHED",1776268602353,1776268613190,"","active","mlflow-artifacts:/1/0b6b1d97f2954595ae9bcbccdd56332a/artifacts",1,NULL
+"7e860a79728c4567a33345b939851c52","unequaled-toad-66","UNKNOWN","","","singh","FINISHED",1776268801907,1776268813590,"","active","mlflow-artifacts:/1/7e860a79728c4567a33345b939851c52/artifacts",1,NULL
+"17314adec1da4975a4a685d4caaaeee4","enchanting-owl-846","UNKNOWN","","","singh","FINISHED",1776269281178,1776269294755,"","active","mlflow-artifacts:/1/17314adec1da4975a4a685d4caaaeee4/artifacts",1,NULL

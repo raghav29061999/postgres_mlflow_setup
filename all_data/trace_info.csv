@@ -1,0 +1,4 @@
+"request_id","experiment_id","timestamp_ms","execution_time_ms","status","client_request_id","request_preview","response_preview"
+"tr-272e7f7363be68c5d84d7932d2833f07",1,1776268610953,40,"OK",NULL,"""12*3""",NULL
+"tr-e80fb36b4c6cd079f42cd127d6dc6568",1,1776268804810,6764,"OK",NULL,"""12*3""","""The result of \\( 12 \\times 3 \\) is **36**."""
+"tr-4b849ad5c22294288cca30fe075b78c4",1,1776269284867,6220,"OK",NULL,"""34*90""","""The result of \\( 34 \\times 90 \\) is **3060**."""

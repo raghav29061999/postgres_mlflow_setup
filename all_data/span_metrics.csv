@@ -1,0 +1,7 @@
+"trace_id","span_id","key","value"
+"tr-4b849ad5c22294288cca30fe075b78c4","01beea254df3fe4a","input_cost",2.58e-05
+"tr-4b849ad5c22294288cca30fe075b78c4","01beea254df3fe4a","output_cost",1.08e-05
+"tr-4b849ad5c22294288cca30fe075b78c4","01beea254df3fe4a","total_cost",3.66e-05
+"tr-4b849ad5c22294288cca30fe075b78c4","859dbe40ac91b951","input_cost",3.0299999999999998e-05
+"tr-4b849ad5c22294288cca30fe075b78c4","859dbe40ac91b951","output_cost",1.14e-05
+"tr-4b849ad5c22294288cca30fe075b78c4","859dbe40ac91b951","total_cost",4.17e-05

@@ -1,0 +1,11 @@
+agno
+mlflow
+openai
+python-dotenv
+agno
+openai
+mlflow
+python-dotenv
+opentelemetry-exporter-otlp 
+openinference-instrumentation-agno
+psycopg2-binary

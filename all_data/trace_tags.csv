@@ -1,0 +1,7 @@
+"key","value","request_id"
+"mlflow.artifactLocation","mlflow-artifacts:/1/traces/tr-272e7f7363be68c5d84d7932d2833f07/artifacts","tr-272e7f7363be68c5d84d7932d2833f07"
+"mlflow.trace.spansLocation","TRACKING_STORE","tr-272e7f7363be68c5d84d7932d2833f07"
+"mlflow.artifactLocation","mlflow-artifacts:/1/traces/tr-e80fb36b4c6cd079f42cd127d6dc6568/artifacts","tr-e80fb36b4c6cd079f42cd127d6dc6568"
+"mlflow.trace.spansLocation","TRACKING_STORE","tr-e80fb36b4c6cd079f42cd127d6dc6568"
+"mlflow.artifactLocation","mlflow-artifacts:/1/traces/tr-4b849ad5c22294288cca30fe075b78c4/artifacts","tr-4b849ad5c22294288cca30fe075b78c4"
+"mlflow.trace.spansLocation","TRACKING_STORE","tr-4b849ad5c22294288cca30fe075b78c4"
