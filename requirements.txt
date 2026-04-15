@@ -9,3 +9,5 @@ python-dotenv
 opentelemetry-exporter-otlp 
 openinference-instrumentation-agno
 psycopg2-binary
+ fastapi
+ uvicorn
